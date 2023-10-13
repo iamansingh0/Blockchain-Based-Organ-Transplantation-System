@@ -1,0 +1,251 @@
+"","donorAge","receiverAge","DonorBG","RecBG","D_Organ","R_Organ","D_Virology","R_Virology","MatchOrNot"
+"1",35,38,"A","AB","Liver","Liver",0,0,1
+"2",39,45,"O","B","Kidney","Heart",0,0,0
+"3",43,40,"B","O","Pancreas","Kidney",0,0,0
+"4",28,25,"AB","AB","Small Bowel","Small Bowel",0,0,1
+"5",35,36,"O","B","Heart","Heart",0,0,1
+"6",34,42,"B","AB","Liver","Liver",1,0,0
+"7",36,38,"A","AB","Kidney","Kidney",1,1,1
+"8",58,62,"A","O","Heart","Heart",0,0,0
+"9",37,32,"B","A","Liver","Liver",0,0,0
+"10",26,28,"AB","A","Lungs","Heart",1,1,0
+"11",35,45,"AB","B","Liver ","Liver",0,1,0
+"12",37,32,"A","B","Heart","Kidney",0,0,0
+"13",29,30,"A","A","Heart","Heart",1,1,1
+"14",44,49,"B","AB","Pancreas","Pancreas",0,0,1
+"15",38,46,"AB","O","Liver ","Liver",1,1,0
+"16",48,55,"O","O","Kidndey","Kidney",0,0,1
+"17",52,54,"O","AB","Heart","Liver",0,0,1
+"18",48,46,"AB","AB","Kidney","Kidney",0,0,0
+"19",25,28,"A","AB","Small Bowel","Small Bowel",1,1,1
+"20",29,37,"B","B","Heart","Heart",1,1,1
+"21",35,32,"O","A","Lungs","Lungs",0,0,1
+"22",28,32,"A","B","Kidney","Kidney",0,0,0
+"23",34,35,"B","O","Heart","Heart",1,1,0
+"24",35,35,"AB","A","Liver ","Eyes",0,0,0
+"25",25,28,"A","AB","Heart","Heart",1,1,1
+"26",29,26,"B","AB","Liver ","Lungs",0,0,0
+"27",32,35,"B","AB","Liver ","Lungs",1,1,1
+"28",33,38,"A","B","Liver ","Liver",1,1,0
+"29",39,32,"B","O","Lungs","Lungs",0,0,0
+"30",44,41,"AB","B","Heart","Heart",1,1,0
+"31",32,34,"AB","A","Pancreas","Pancreas",0,0,0
+"32",36,38,"B","AB","Small Bowel","Small Bowel",1,1,1
+"33",41,45,"O","AB","Lungs","Lungs",0,0,1
+"34",38,39,"AB","AB","Liver ","Kidney",1,1,0
+"35",45,41,"B","B","Liver ","Lungs",0,0,0
+"36",39,51,"O","AB","Heart","Heart",0,0,1
+"37",39,43,"A","B","Kidney","Kidney",1,1,0
+"38",44,42,"B","O","Eyes","Eyes",0,0,0
+"39",25,28,"AB","O","Small Bowel","Small Bowel",1,1,0
+"40",30,36,"O","A","Pancreas","Pancreas",0,0,1
+"41",28,29,"A","AB","Liver ","Lungs",1,1,1
+"42",35,53,"O","O","Heart","Heart",1,0,0
+"43",36,34,"O","O","Lungs","Lungs",0,0,1
+"44",45,62,"AB","AB","Kidney","Kidney",0,0,1
+"45",41,43,"A","A","Eyes","Liver",0,1,0
+"46",45,41,"A","O","Lungs","Lungs",0,0,0
+"47",32,36,"B","A","Pancreas","Pancreas",1,1,0
+"48",28,30,"A","AB","Small Bowel","Small Bowel",0,0,1
+"49",35,32,"O","O","Lungs","Lungs",1,1,1
+"50",40,45,"B","AB","Kidney","Liver",0,1,0
+"51",32,42,"AB","AB","Eyes","Eyes",1,1,1
+"52",39,43,"O","O","Heart","Lungs",0,0,0
+"53",29,33,"A","O","Heart","Heart",1,1,0
+"54",32,38,"AB","B","Liver ","Liver",0,0,0
+"55",26,39,"O","O","Heart","Heart",1,1,1
+"56",28,38,"B","B","Lungs","Lungs",0,0,0
+"57",38,40,"A","O","Liver ","Kidney",1,1,0
+"58",49,47,"B","O","Heart","Heart",1,1,0
+"59",35,39,"A","AB","Eyes","Eyes",0,0,1
+"60",51,55,"B","B","Kidney","Kidney",1,1,1
+"61",32,54,"AB","AB","Pancreas","Pancreas",0,0,1
+"62",63,32,"O","O","Heart","Heart",0,0,0
+"63",35,32,"A","A","Liver ","Kidney",1,1,0
+"64",45,49,"B","AB","Kidney","Lungs",0,0,0
+"65",50,47,"B","A","Liver ","Liver",1,1,0
+"66",40,38,"A","A","Small Bowel","Small Bowel",0,0,1
+"67",28,30,"B","B","Pancreas","Pancreas",0,1,0
+"68",30,33,"O","AB","Lungs","Eyes",1,1,0
+"69",35,48,"O","O","Eyes","Eyes",0,0,1
+"70",27,30,"AB","AB","Lungs","Liver",0,0,0
+"71",35,31,"A","A","Kidney","Heart",0,0,0
+"72",28,35,"B","AB","Heart","Heart",1,1,1
+"73",48,52,"O","AB","Pancreas","Pancreas",0,0,1
+"74",33,52,"O","B","Lungs","Lungs",1,1,1
+"75",38,44,"B","O","Kidney","Liver",0,0,0
+"76",27,46,"AB","AB","Eyes","Eyes",1,1,1
+"77",41,44,"AB","O","Liver ","Liver",0,0,0
+"78",38,40,"O","O","Kidney","Kidney",1,0,0
+"79",49,44,"A","AB","Pancreas","Pancreas",1,1,1
+"80",35,39,"B","AB","Small Bowel","Small Bowel",0,0,1
+"81",56,46,"O","B","Lungs","Kidney",0,1,0
+"82",33,38,"AB","O","Kidney","Liver",1,1,0
+"83",38,30,"AB","A","Lungs","Lungs",0,0,0
+"84",39,28,"B","B","Liver ","Liver",1,1,0
+"85",28,33,"A","AB","Lungs","Lungs",0,0,1
+"86",30,38,"B","AB","Kidney","Pancreas",1,1,0
+"87",32,35,"O","O","Small Bowel","Pancreas",0,0,0
+"88",42,36,"A","AB","Eyes","Eyes",1,1,1
+"89",37,34,"B","B","Liver ","Lungs",0,0,0
+"90",28,30,"O","O","Small Bowel","Small Bowel",1,1,1
+"91",30,38,"AB","AB","Heart","Heart",0,1,0
+"92",45,42,"O","A","Lungs","Lungs",1,1,1
+"93",32,40,"O","O","Liver ","Liver",0,1,0
+"94",27,39,"B","O","Kidney","Kidney",1,0,0
+"95",30,37,"A","A","Eyes","Eyes",0,0,1
+"96",28,31,"B","B","Heart","Lungs",1,0,0
+"97",30,38,"AB","AB","Pancreas","Pancreas",0,0,1
+"98",41,36,"O","AB","Small Bowel","Lungs",1,1,0
+"99",39,38,"B","A","Liver ","Liver",0,0,0
+"100",44,48,"O","B","Lungs","Liver",1,1,0
+"101",28,34,"A","A","Heart","Heart",0,0,1
+"102",31,39,"B","AB","Eyes","Eyes",1,1,1
+"103",34,30,"AB","O","Liver ","Liver",0,0,0
+"104",29,40,"B","B","Heart","Heart",1,1,1
+"105",41,45,"O","O","Liver ","Lungs",0,0,0
+"106",35,56,"A","A","Pancreas","Pancreas",1,0,0
+"107",32,51,"O","A","Small Bowel","Small Bowel",1,1,1
+"108",35,41,"A","AB","Kidney","Kidney",0,0,1
+"109",44,32,"B","A","Liver ","Lungs",1,1,0
+"110",51,57,"AB","O","Lungs","Lungs",1,1,0
+"111",42,51,"O","AB","Kidney","Lungs",0,0,0
+"112",35,40,"B","B","Eyes","Eyes",1,1,0
+"113",29,40,"AB","AB","Eyes","Kidney",0,0,0
+"114",40,32,"A","B","Lungs","Lungs",1,1,0
+"115",32,45,"B","AB","Liver ","Kidney",0,0,0
+"116",30,41,"B","AB","Lungs","Lungs",1,1,1
+"117",24,38,"A","A","Eyes","Eyes",0,0,1
+"118",31,36,"O","B","Heart","Heart",1,1,1
+"119",35,64,"AB","B","Lungs","Liver",0,0,0
+"120",30,24,"B","B","Eyes","Lungs",0,0,0
+"121",29,35,"O","O","Kidney","Kidney",1,1,1
+"122",42,48,"O","B","Lungs","Kidney",0,0,0
+"123",41,55,"AB","AB","Heart","Heart",1,0,0
+"124",28,39,"B","AB","Liver ","Liver",1,1,1
+"125",34,36,"O","AB","Pancreas","Pancreas",0,0,1
+"126",23,34,"O","A","Kidney","Lungs",1,0,0
+"127",34,32,"O","O","Heart","Heart",0,0,1
+"128",41,42,"A","AB","Liver","Eyes",0,0,0
+"129",34,43,"O","A","Kidney","Kidney",0,0,1
+"130",54,55,"B","AB","Heart","Heart",1,0,0
+"131",45,56,"AB","A","Lungs","Face",0,1,0
+"132",60,12,"B","AB","Kidney","Kidney",1,0,0
+"133",62,32,"B","B","Pancreas","Pancreas",0,0,1
+"134",50,50,"A","AB","Kidney","Heart",0,1,0
+"135",53,23,"A","AB","Eyes","Eyes",0,0,1
+"136",61,43,"O","A","Heart","Eyes",0,0,0
+"137",49,10,"A","A","Kidney","Kidney",0,0,1
+"138",34,23,"AB","AB","Lung","Lung",0,0,1
+"139",35,46,"A","AB","Kidney","Kidney",0,0,1
+"140",45,60,"B","O","Heart","Lung",0,0,0
+"141",36,17,"O","AB","Lung","Lung",0,0,1
+"142",24,20,"A","O","Eyes","Eyes",0,0,0
+"143",56,45,"B","A","Heart","Heart",0,1,0
+"144",76,56,"O","AB","Intestine","Intestine",0,0,1
+"145",56,34,"O","O","Kidney","Kidney",0,1,0
+"146",45,45,"AB","B","Lung","Heart",0,0,0
+"147",67,45,"O","AB","Liver","Liver",1,0,0
+"148",56,45,"A","B","Intestine","Intestine",0,0,1
+"149",24,34,"AB","AB","Liver","Liver",0,0,1
+"150",56,34,"O","O","Eyes","Lung",0,0,0
+"151",34,56,"AB","A","Lungs","Lungs",0,0,0
+"152",45,46,"O","A","Intestine","Intestine",0,0,1
+"153",34,76,"AB","AB","Eyes","Eyes",0,0,1
+"154",70,28,"A","AB","Lungs","Lungs",0,1,0
+"155",45,67,"O","A","Liver","Heart",0,1,0
+"156",54,36,"A","AB","Heart","Kidney",0,0,0
+"157",60,76,"AB","A","Lungs","Lungs",0,1,0
+"158",47,39,"AB","AB","Eyes","Eyes",0,0,1
+"159",46,40,"A","A","Lungs","Lungs",0,1,0
+"160",30,25,"O","AB","Liver","Kidney",0,0,0
+"161",56,38,"O","O","Eyes","Kidney",1,1,0
+"162",79,35,"A","A","Kidney","Kidney",0,0,1
+"163",56,45,"AB","AB","Lungs","Eyes",0,0,0
+"164",23,12,"AB","AB","Kidney","Kidney",0,0,1
+"165",67,13,"A","AB","Heart","Heart",0,0,1
+"166",67,27,"A","A","Heart","Kidney",0,1,0
+"167",35,38,"AB","AB","Eyes","Eyes",0,0,1
+"168",59,38,"AB","A","Heart","Heart",0,1,0
+"169",56,37,"A","AB","Lungs","Lungs",0,0,1
+"170",49,38,"A","B","Heart","Heart",0,1,0
+"171",67,56,"AB","A","Lungs","Intestine",0,0,1
+"172",67,45,"A","AB","Heart","Heart",0,0,1
+"173",56,38,"A","AB","Lungs","Kidney",0,1,0
+"174",37,47,"B","A","Eyes","Eyes",0,1,0
+"175",53,38,"AB","A","Lungs","Liver",0,1,0
+"176",78,42,"A","AB","Heart","Kidney",0,0,1
+"177",45,13,"A","A","Kidney","Kidney",0,0,1
+"178",23,58,"AB","A","Kidney","Kidney",0,0,0
+"179",89,54,"AB","AB","Kidney","Lungs",0,1,0
+"180",65,46,"A","AB","Eyes","Eyes",0,0,1
+"181",56,49,"A","AB","Lungs","Lungs",1,1,0
+"182",34,12,"O","A","Kidney","Eyes",0,0,0
+"183",49,19,"A","A","Liver","Liver",0,0,1
+"184",45,48,"AB","AB","Liver","Heart",0,0,0
+"185",79,41,"O","O","Heart","Heart",0,0,1
+"186",49,12,"A","AB","Kidney","Kidney",1,1,0
+"187",45,18,"AB","A","Heart","Heart",0,0,0
+"188",87,56,"A","AB","Eyes","Eyes",0,0,1
+"189",59,69,"A","AB","Liver","Liver",0,0,1
+"190",80,30,"O","B","Lungs","Kidney",0,1,0
+"191",67,38,"AB","A","Heart","Eyes",0,0,0
+"192",56,34,"O","A","Lungs","Lungs",0,1,0
+"193",49,45,"O","B","Heart","Heart",0,0,1
+"194",34,12,"B","AB","Eyes","Heart",1,1,0
+"195",34,56,"B","AB","Kidney","Kidney",0,0,1
+"196",56,59,"A","O","Lungs","Intestine",0,1,0
+"197",40,60,"AB","AB","Intestine","Intestine",0,0,1
+"198",49,56,"O","A","Liver","Intestine",0,0,0
+"199",53,31,"AB","A","Heart","Heart",0,1,0
+"200",45,12,"O","A","Kidney","Kidney",0,0,1
+"201",86,54,"A","B","Heart","Lungs",1,0,0
+"202",45,12,"AB","AB","Kidney","Kidney",0,0,1
+"203",45,39,"AB","AB","Kidney","Eyes",1,1,0
+"204",56,45,"AB","A","Heart","Kidney",0,0,0
+"205",49,34,"A","AB","Lungs","Eyes",0,1,0
+"206",56,56,"A","B","Heart","Heart",0,0,0
+"207",78,34,"O","O","Eyes","Eyes",0,0,1
+"208",45,38,"O","B","Liver","Liver",0,0,1
+"209",67,56,"AB","AB","Kidney","Heart",1,1,0
+"210",49,45,"B","A","Lungs","Lungs",1,1,0
+"211",67,34,"A","AB","Kidney","Kidney",0,0,1
+"212",80,38,"AB","AB","Heart","Lungs",0,0,0
+"213",58,30,"A","AB","Intestine","Intestine",0,0,1
+"214",76,45,"A","B","Heart","Lungs",1,1,0
+"215",34,38,"O","A","Kidney","Kidney",0,0,1
+"216",45,34,"O","A","Lungs","Heart",1,1,0
+"217",34,56,"O","A","Kidney","Lungs",0,1,0
+"218",49,46,"O","AB","Heart","Heart",0,0,1
+"219",56,56,"AB","A","Intestine","Lungs",1,0,0
+"220",56,38,"A","AB","Kidney","Kidney",0,0,1
+"221",45,38,"O","O","Heart","Eyes",0,0,0
+"222",45,56,"B","AB","Lungs","Lungs",0,0,1
+"223",49,12,"AB","A","Kidney","Kidney",0,0,0
+"224",45,38,"O","B","Heart","Heart",0,0,1
+"225",56,45,"O","O","Lungs","Kidney",1,1,0
+"226",49,56,"O","B","Kidney","Kidney",0,1,0
+"227",49,56,"A","AB","Small Bowel","Small Bowel",0,0,1
+"228",45,45,"O","A","Kidney","Small Bowel",0,1,0
+"229",56,45,"O","AB","Heart","Eyes",0,1,0
+"230",67,60,"AB","A","Lungs","Small Bowel",1,1,0
+"231",34,12,"B","AB","Kidney","Kidney",0,0,1
+"232",49,38,"AB","A","Heart","Heart",1,0,0
+"233",49,12,"AB","B","Kidney","Lungs",1,0,0
+"234",56,50,"B","B","Small Bowel","Small Bowel",0,0,1
+"235",56,10,"B","AB","Lungs","Lungs",1,1,0
+"236",45,18,"AB","A","Heart","Small Bowel",0,0,0
+"237",34,45,"A","AB","Lungs","Lungs",0,0,1
+"238",34,30,"A","AB","Heart","Kidney",0,0,0
+"239",67,38,"B","B","Kidney","Kidney",0,0,1
+"240",49,29,"AB","A","Heart","Lungs",1,1,0
+"241",60,21,"A","AB","Liver","Liver",0,0,1
+"242",48,30,"A","A","Small Bowel","Small Bowel",0,0,1
+"243",66,34,"A","B","Lungs","Liver",1,1,0
+"244",60,23,"O","B","Liver","Heart",0,0,0
+"245",70,38,"A","AB","Liver","Liver",0,0,1
+"246",60,22,"B","AB","Eyes","Eyes",1,1,0
+"247",49,12,"A","A","Kidney","Kidney",0,0,1
+"248",60,20,"A","B","Lungs","Liver",0,0,0
+"249",80,28,"A","AB","Eyes","Liver",0,0,0
+"250",60,67,"B","B","Liver","Heart",0,0,1
