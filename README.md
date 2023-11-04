@@ -27,12 +27,13 @@ git clone https://github.com/leokfwong/organ-donation-blockchain.git
 - Select Injected Web3 under Environment.
 - Ensure account address matches the one in Ganache.
 - Deploy and confirm.
-- Ensure that the smart contract address matches the one in the web3.js file (line 277).
+- Ensure that the smart contract address matches the one in the web3.js file (line 379).
 - Otherwise, update the address.
 
 ```
 const contractAddress = 'insert smart contract address';
 ```
+- Update the contract ABI in web3 file
 
 ### Testing the Application
 The website should now show that is it online.
