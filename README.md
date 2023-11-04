@@ -15,7 +15,7 @@ The following instructions will create a copy of the project up and running on y
 
 Clone the organ-donation-blockchain repository onto local machine.
 ```
-[git clone https://github.com/leokfwong/organ-donation-blockchain.git](https://github.com/iamansingh0/Blockchain-Based-Organ-Transplantation-System.git)
+git clone https://github.com/leokfwong/organ-donation-blockchain.git
 ```
 
 ## Setting up the Environment
